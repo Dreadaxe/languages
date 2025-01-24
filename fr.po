@@ -4434,7 +4434,7 @@ msgstr ""
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
 #, fuzzy
 msgid "Are you sure you wish to approve this message?"
-msgstr "Êtes-vous sûr de vouloir bannir cette personne ?"
+msgstr "Êtes-vous sûr de vouloir approuver ce message ?"
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #, fuzzy
@@ -4443,7 +4443,7 @@ msgstr "Êtes-vous sûr de vouloir approuver cet abonnement en attente ?"
 
 #: ../../cmd/web/views/groupadmin/grouppendingmsg.qtpl
 msgid "Are you sure you wish to ban %s?"
-msgstr "Êtes-vous sûr de vouloir interdire %s ?"
+msgstr "Êtes-vous sûr de vouloir bannir %s ?"
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #, fuzzy
@@ -9939,7 +9939,7 @@ msgstr "Suivi uniquement"
 #: ../../cmd/web/views/user/groups.qtpl
 #, fuzzy
 msgid "Following Only With First Message Also"
-msgstr "Premier message également"
+msgstr "Suivre le Premier message également"
 
 #: ../../cmd/web/views/grouphashtags/groupedithashtag.qtpl
 msgid "Footer"
@@ -14648,7 +14648,7 @@ msgstr "Modérer"
 #: ../../cmd/web/views/user/groups.qtpl
 #, fuzzy
 msgid "Moderate First Message"
-msgstr "Premier message également"
+msgstr "Modérer le Premier Message"
 
 #: ../../cmd/web/views/groupadmin/groupmember.qtpl
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
@@ -18379,7 +18379,7 @@ msgstr "Rejeter"
 
 #: ../../cmd/web/views/groupadmin/groupeditpendingmsg.qtpl
 msgid "Reject Message"
-msgstr "Message de rejet"
+msgstr "Message rejeté"
 
 #: ../../cmd/web/views/groupadmin/grouppendingmsgs.qtpl
 #, fuzzy
@@ -18401,7 +18401,7 @@ msgstr "Reject Pending Sub"
 #: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl
 #, fuzzy
 msgid "Reject this message and notify the sender"
-msgstr "Êtes-vous sûr de vouloir approuver cet abonnement en attente ?"
+msgstr "Rejeter ce message et en informer l'expéditeur"
 
 #: ../../cmd/web/views/groupadmin/groupmembers.qtpl
 msgid "Rejected"
@@ -18409,25 +18409,25 @@ msgstr "Rejeté"
 
 #: ../../cmd/web/views/membernotices/groupeditmembernotice.qtpl
 msgid "Rejected Message"
-msgstr "Rejet de message"
+msgstr "Message rejeté"
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
 msgid "Rejected Message - Banned domain"
-msgstr "Message rejeté - Domaine interdit"
+msgstr "Message rejeté - Domaine banni"
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
 msgid "Rejected Message - Banned member"
-msgstr "Message rejeté - Membre interdit"
+msgstr "Message rejeté - Membre banni"
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
 msgid "Rejected Message - Bouncing member"
-msgstr "Message rejeté - Membre rebondissant"
+msgstr "Message rejeté - Membre modéré"
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -18439,7 +18439,7 @@ msgstr "Message rejeté - En raison d'une pièce jointe"
 #: ../../tools/genactivities/activities.hjson
 #, fuzzy
 msgid "Rejected Message - From member due to virus"
-msgstr "Message rejeté - par le membre en raison d'un virus"
+msgstr "Message rejeté - du membre en raison d'un virus"
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
@@ -22036,14 +22036,14 @@ msgstr "l'utilisateur est en attente"
 #, fuzzy
 msgid "the user is set to moderate first message and is starting a new topic"
 msgstr ""
-"l'utilisateur est configuré pour modérer le premier message et commence un nouveau sujet"
+"l'utilisateur est configuré pour être modéré sur son premier message et s'il commence un nouveau sujet"
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/subactions.hjson
 #, fuzzy
 msgid "the user is set to moderate started topics and is starting a new topic"
 msgstr ""
-"l'utilisateur est configuré pour modérer les sujets commencés et commence un nouveau sujet"
+"l'utilisateur est configuré pour être modéré sur son premier message et s'il commence un nouveau sujet"
 
 #: ../../cmd/web/qtutils/flashnotices.qtpl
 #, fuzzy
@@ -24751,7 +24751,7 @@ msgstr "Voir le tableau"
 #: ../../pkg/notifications/noteviews/pendingemailnotification.qtpl
 #, fuzzy
 msgid "View this message online"
-msgstr "Premier message également"
+msgstr "Voir ce message en ligne"
 
 #: ../../cmd/web/views/account/settings.qtpl
 #, fuzzy

@@ -269,8 +269,8 @@ msgid ""
 "%[1]s applied to join your group %[2]s. Because the group is restricted, you "
 "will need to approve their subscription before they can join."
 msgstr ""
-"%[1]s ont demandé à rejoindre votre groupe %[2]s. Le groupe étant restreint, "
-"vous devrez approuver leur inscription avant qu'ils ne puissent s'y joindre."
+"%[1]s ont demandé à rejoindre votre groupe %[2]. Le groupe étant restreint, "
+"vous devrez approuver leur inscription avant qu'ils ne puissent le rejoindre."
 
 #. Automatically translated using DeepL
 #: ../../tools/genactivities/activities.hjson
